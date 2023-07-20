@@ -9,8 +9,7 @@ To run the NFT minting and listing application, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   https://github.com/RIDAMSINHA/NFT-Minting-and-Listing-App.git
    ```
 
 2. Open the `mynft.js` file in your preferred text editor.
